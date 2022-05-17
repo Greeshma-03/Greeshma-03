@@ -14,8 +14,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Greeshma-03.repoName) 
 
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Greeshma-03&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-03&langs_count=12&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=Greeshma-03&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-03&langs_count=12&layout=compact)
 
 
 ## Languages and Tools 👩‍💻
